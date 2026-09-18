@@ -38,3 +38,10 @@
 
 ### Preguntas
 * Con esto del porcentaje en cada seccion (baja, media, alta) no podriamos diagnosticar pronacion/supinacion, ahi necesitamos el dato de las secciones divididas verticalemente o no?
+
+## 18/09/2026
+### Avances
+* Armado de database basandonos en estimaciones de porcentajes en las secciones Alta, Media y Baja. Encontramos algunas imagenes que ya tenian etiqueta de diagnostico y los porcentajes dados. El resto de las imagenes las estimamos.
+* Empezamos a investigar como funciona TensorFlow Lite.
+### Proximo Paso
+* Empezar a entrenar la red neuronal.
