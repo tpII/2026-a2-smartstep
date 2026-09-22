@@ -45,3 +45,10 @@
 * Empezamos a investigar como funciona TensorFlow Lite.
 ### Proximo Paso
 * Empezar a entrenar la red neuronal.
+
+## 22/09/2026
+### Avances
+* Hicimos una primera red neuronal con TensorFlow, que toma los valores estimados y predice el diagnostico por porcentaje de probabilidad.
+### Proximo Paso
+* Iterar sobre la red neuronal para recibir resultados mas precisos.
+* Probar los sensores y ver que valores dan como respuesta.
