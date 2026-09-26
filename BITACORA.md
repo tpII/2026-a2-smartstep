@@ -52,3 +52,11 @@
 ### Proximo Paso
 * Iterar sobre la red neuronal para recibir resultados mas precisos.
 * Probar los sensores y ver que valores dan como respuesta.
+
+## 22/09/2026
+### Avances
+* Actualizamos el repositorio con el notebook de la red.
+* Averiguamos como mejorar el modelo que ya tenemos.
+### Proximo Paso
+* Conectar los sensores y probarlos para saber qué respuesta dan.
+* Mejorar el dataset, sumando la informacion de los sensores.
