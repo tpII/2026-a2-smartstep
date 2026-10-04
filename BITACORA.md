@@ -60,3 +60,10 @@
 ### Proximo Paso
 * Conectar los sensores y probarlos para saber qué respuesta dan.
 * Mejorar el dataset, sumando la informacion de los sensores.
+
+## 03/10/2026
+### Avances
+* Probamos un nuevo dataset que trabaja con 7 sensores FSR por pie.
+* El modelo da resultados muchisimo mejores.
+### Proximo Paso
+* Conectar los sensores y probarlos para saber qué respuesta dan.
