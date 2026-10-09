@@ -67,3 +67,9 @@
 * El modelo da resultados muchisimo mejores.
 ### Proximo Paso
 * Conectar los sensores y probarlos para saber qué respuesta dan.
+
+## 05/10/2026
+### Avances
+* Probamos cada uno de los 7 sensores para verificar que funcionan y qué resultado dan. Los probamos provisoriamente con un arduino, ya que todavia no tenemos el ADC.
+### Proximo Paso
+* Entregar el informe de avance.
