@@ -73,3 +73,10 @@
 * Probamos cada uno de los 7 sensores para verificar que funcionan y qué resultado dan. Los probamos provisoriamente con un arduino, ya que todavia no tenemos el ADC.
 ### Proximo Paso
 * Entregar el informe de avance.
+
+## 25/10/2026
+### Avances
+* Realizamos la primera versión de la página web, permitiendo que se visualicen los distintos resultados posibles. 
+### Próximo Paso
+* Solicitar el ADC para poder realizar las conexiones necesarias para la lectura de los sensores.
+* Permitir la carga del resultado del procesamiento de los datos de los sensores a la interfaz web.
