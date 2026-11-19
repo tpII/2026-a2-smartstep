@@ -80,3 +80,30 @@
 ### Próximo Paso
 * Solicitar el ADC para poder realizar las conexiones necesarias para la lectura de los sensores.
 * Permitir la carga del resultado del procesamiento de los datos de los sensores a la interfaz web.
+
+## 7/11/2026
+### Avances
+* Adquisición del modulo ADC MCP3008. 
+### Próximo Paso
+* Realizar la conexión con los sensores.
+* Realizar la conexión con la interfaz y la red neuronal.
+
+## 12/11/2026
+### Avances
+* Prueba de la red neuronal en la Raspberry PI 3B. 
+### Próximo Paso
+* Probar la conexión del resultado de los sensores como entrada a la red neuronal.
+* Realizar la conexión con la interfaz para que se reflejen los resultados.
+
+## 19/11/2026
+### Avances
+* Conexionado del sistema completo: Raspberry PI 3B, modulo ADC y los 7 sensores FSR.
+* Se definió el circuito de cada sensor: Divisor de tensión con el FSR y una resistencia, lo cual es leído por un canal del MCP3008. 
+* Se planteó la arquitectura de la página web: Un servidor Flask en la Raspberry PI que sirve el HTML y expone una API que lee los sensores, ejecuta el modelo neuronal y devuelve el resultado.
+* Se adapto el HTML para reflejar los verdaderos resultados.
+* Se realizo pruebas de cada parte del sistema individualmente y en conjunto.
+
+### Próximo Paso
+* Montar el dispositivo final.
+* Realizar ajustes en base a distintas pruebas.
+
